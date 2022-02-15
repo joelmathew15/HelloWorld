@@ -1,0 +1,15 @@
+/Users/joelmathew/Downloads/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/joelmathew/Downloads/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/joelmathew/Downloads/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/joelmathew/Downloads/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/joelmathew/Downloads/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/joelmathew/Downloads/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/joelmathew/Downloads/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelmathew/Downloads/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/joelmathew/Downloads/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/joelmathew/Downloads/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/joelmathew/Downloads/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/joelmathew/Downloads/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/joelmathew/Downloads/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/joelmathew/Downloads/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/joelmathew/Downloads/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
